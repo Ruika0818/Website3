@@ -48,6 +48,7 @@ h3{
     background-repeat: repeat-x;
     width: 100%;
     text-align: center;
+
 }
 .contentTop{
     width: 838px;
@@ -79,7 +80,8 @@ h3{
 }
 .contentM{
     width: 900px;
-    margin-left: 135px;
+    margin:  0 auto 0 auto;
+
 }
 .theme{
     width: 300px;
